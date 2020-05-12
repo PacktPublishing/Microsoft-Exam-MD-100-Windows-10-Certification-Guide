@@ -3,7 +3,7 @@
   Get a list of PowerShell Print Management cmdlets
 
 .DESCRIPTION
-  In this PowerShell you will find how you can retrieve all Print Management PowerShell cmdlets. This scripts belongs to chapter 11 of the MD-100 exam guide.
+  In this PowerShell you will find how you can retrieve all Print Management PowerShell cmdlets. This scripts belongs to chapter 12 of the MD-100 exam guide.
 
 .INPUTS
   <none>

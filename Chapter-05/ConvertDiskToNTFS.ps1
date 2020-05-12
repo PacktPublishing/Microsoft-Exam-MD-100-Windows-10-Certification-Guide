@@ -3,7 +3,7 @@
   Convert a volume on a drive to NTFS
 
 .DESCRIPTION
-  This PowerShell command belongs to chapter 4 of the MD-100 exam guide.
+  This PowerShell command belongs to chapter 5 of the MD-100 exam guide.
 
 .INPUTS
   <none>

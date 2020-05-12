@@ -1,6 +1,6 @@
-<#
+﻿<#
 .SYNOPSIS
-  See current ACL
+  Create new local group
 
 .DESCRIPTION
   This PowerShell command belongs to chapter 4 of the MD-100 exam guide.
@@ -9,13 +9,15 @@
   <none>
 
 .OUTPUTS
-  List of current permissions
+  New local group
 
 .NOTES
   Version:        1.0
   Author:         Jeroen Burgerhout
-  Creation Date:  16-12-2019
+  Creation Date:  18-11-2019
   Purpose/Change: Initial script development
   
 #>
-Get-ACL C:\Windows\regedit.exe | Format-List
+
+New-LocalGroup -Name "W10NewLocalGroup"
+Add-LocalGroupMember -Member "Jeroen" -Name "W10NewLocalGroup"

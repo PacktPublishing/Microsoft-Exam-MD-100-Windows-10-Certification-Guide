@@ -3,7 +3,7 @@
   Example of the some System Restore commands.
 
 .DESCRIPTION
-  In this PowerShell you will find some System Restore commands that belongs to chapter 9 of the MD-100 exam guide.
+  In this PowerShell you will find some System Restore commands that belongs to chapter 10 of the MD-100 exam guide.
 
 .INPUTS
   <none>

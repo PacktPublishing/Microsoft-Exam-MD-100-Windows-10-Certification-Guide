@@ -3,7 +3,7 @@
   Export Start Menu Layout on Windows 10
 
 .DESCRIPTION
-  This PowerShell command belongs to chapter 2 of the MD-100 exam guide.
+  This PowerShell command belongs to chapter 3 of the MD-100 exam guide.
 
 .INPUTS
   None

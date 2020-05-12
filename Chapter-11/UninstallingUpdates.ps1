@@ -3,7 +3,7 @@
   Example of how you can uninstall an update via the command line or PowerShell.
 
 .DESCRIPTION
-  In this PowerShell you will find an example how you can uninstall an update. This scripts belongs to chapter 10 of the MD-100 exam guide.
+  In this PowerShell you will find an example how you can uninstall an update. This scripts belongs to chapter 11 of the MD-100 exam guide.
 
 .INPUTS
   <none>

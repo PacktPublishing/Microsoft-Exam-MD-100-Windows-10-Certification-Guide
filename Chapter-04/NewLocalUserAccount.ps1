@@ -3,7 +3,7 @@
   Create new local user
 
 .DESCRIPTION
-  This PowerShell command belongs to chapter 3 of the MD-100 exam guide.
+  This PowerShell command belongs to chapter 4 of the MD-100 exam guide.
 
 .INPUTS
   Type a password for the user account

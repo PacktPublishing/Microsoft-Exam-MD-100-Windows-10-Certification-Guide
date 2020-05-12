@@ -3,7 +3,7 @@
   Example of the some commands which you can use to enable PowerShell remoting.
 
 .DESCRIPTION
-  In this PowerShell you will find the some commands which you can use to enable PowerShell remoting that belongs to chapter 8 of the MD-100 exam guide.
+  In this PowerShell you will find the some commands which you can use to enable PowerShell remoting that belongs to chapter 9 of the MD-100 exam guide.
 
 .INPUTS
   <none>

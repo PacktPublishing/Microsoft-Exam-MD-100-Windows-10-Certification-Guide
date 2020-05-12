@@ -1,15 +1,15 @@
 <#
 .SYNOPSIS
-  Change ACL on a file
+  See current ACL
 
 .DESCRIPTION
-  This PowerShell command belongs to chapter 4 of the MD-100 exam guide.
+  This PowerShell command belongs to chapter 5 of the MD-100 exam guide.
 
 .INPUTS
   <none>
 
 .OUTPUTS
-  Set ACL on a file
+  List of current permissions
 
 .NOTES
   Version:        1.0
@@ -18,4 +18,4 @@
   Purpose/Change: Initial script development
   
 #>
-Get-ACL C:\Windows | Set-ACL C:\Temporary
+Get-ACL C:\Windows\regedit.exe | Format-List
