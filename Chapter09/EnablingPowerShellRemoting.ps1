@@ -22,7 +22,7 @@ Get-Service WinRM
 Enable-PSRemoting -Force
 
 # Add a remote computer to the Local Computer Trusted Hosts list
-winrm.cmd s winrm/config/client '\@{TrustedHosts="RemoteComputerName"}'
+winrm.cmd set winrm/config/client '@{TrustedHosts="RemoteComputer"}'
 
 # Verifiy if the WinRM service is up and running on the remote host
 winrm.cmd quickconfig
