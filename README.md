@@ -13,14 +13,14 @@ Microsoft Exam MD-100 Windows 10 Certification Guide offers complete, up-to-date
 
 
 This book covers the following exciting features:
-* Deploy Windows 10 in a variety of ways 
-* Manage local users, groups, and devices 
-* Configure networking and remote connectivity 
-* Gain insights into Windows 10 maintenance 
-* Customize different Windows 10 features 
-* Become an expert at troubleshooting and recovery 
-* Get to grips with managing log files 
-* Monitor and manage Windows security
+Deploy Windows 10 in a variety of ways 
+Manage local users, groups, and devices 
+Configure networking and remote connectivity 
+Gain insights into Windows 10 maintenance 
+Customize different Windows 10 features 
+Become an expert at troubleshooting and recovery 
+Get to grips with managing log files 
+Monitor and manage Windows security
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1838822186) today!
 
