@@ -55,8 +55,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ## Get to Know the Author
-**Jeroen Burgerhout**
-Jeroen Burgerhout is a Microsoft Cloud Consultant at SKS Professionals with great technical experience in Microsoft products. He is specialized in Azure, Hyper-V, Intune, Office 365, EMS, Windows 10, and Windows Server. He is currently working for the government in the Netherlands, working on the migration to Microsoft 365 with Microsoft Endpoint Manager, Azure Active Directory, and security features such as Azure AD PIM, Azure AD MFA, and Azure AD Conditional Access. Later this year, he will start with the new Modern Workplace concept, which is entitled to Windows 10, Windows Autopilot, Microsoft Endpoint Management, Office 365, and Azure AD. His Twitter account is @BurgerhoutJ.
+**Jeroen Burgerhout** is a Microsoft Cloud Consultant at SKS Professionals with great technical experience in Microsoft products. He is specialized in Azure, Hyper-V, Intune, Office 365, EMS, Windows 10, and Windows Server. He is currently working for the government in the Netherlands, working on the migration to Microsoft 365 with Microsoft Endpoint Manager, Azure Active Directory, and security features such as Azure AD PIM, Azure AD MFA, and Azure AD Conditional Access. Later this year, he will start with the new Modern Workplace concept, which is entitled to Windows 10, Windows Autopilot, Microsoft Endpoint Management, Office 365, and Azure AD. His Twitter account is @BurgerhoutJ.
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
