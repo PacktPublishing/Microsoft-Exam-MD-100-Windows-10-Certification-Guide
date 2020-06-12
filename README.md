@@ -48,10 +48,16 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781838822187_ColorImages.pdf).
 
+## Code in Action
+
+Click on the following link to see the Code in Action:
+
+https://bit.ly/2LsQDqD
+
 ### Related products
 * Microsoft 365 Certified Fundamentals MS-900 Exam Guide  [[Packt]](https://www.packtpub.com/cloud-networking/microsoft-365-certified-fundamentals-exam-ms-900-guide?utm_source=github&utm_medium=repository&utm_campaign=9781838982171) [[Amazon]](https://www.amazon.com/dp/1838982175)
 
-* Microsoft 365 Mobility and Security ֠Exam Guide MS-101  [[Packt]](https://www.packtpub.com/cloud-networking/microsoft-365-mobility-and-security-exam-guide-ms-101?utm_source=github&utm_medium=repository&utm_campaign=9781838984656) [[Amazon]](https://www.amazon.com/dp/1838984658)
+* Microsoft 365 Mobility and Security Ö Exam Guide MS-101  [[Packt]](https://www.packtpub.com/cloud-networking/microsoft-365-mobility-and-security-exam-guide-ms-101?utm_source=github&utm_medium=repository&utm_campaign=9781838984656) [[Amazon]](https://www.amazon.com/dp/1838984658)
 
 
 ## Get to Know the Author
@@ -59,5 +65,3 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
-
-
