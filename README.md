@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/microsoft-exam-md-100-windows-10-certification-guide/9781838822187)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1838822186).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Microsoft Exam MD-100 Windows 10 Certification Guide 
 
 If you want to add or change some PowerShell scripts, please let me know or edit the file.
